@@ -1,0 +1,19 @@
+
+Puxada
+1: Puxada frontal com pegada aberta
+2: Puxada frontal com pegada fechada
+3: Puxada pela nuca (menos recomendado devido ao risco de lesão no ombro)
+4: Puxada com pegada neutra (palmas das mãos voltadas uma para a outra)
+
+Remada 
+
+5: Remada curvada com barra (Bent-over Barbell Row)
+6: Remada com halter (Single-Arm Dumbbell Row)
+7: Remada sentada em máquina (Seated Cable Row)
+8: Remada em pé na máquina Smith ou barra T (T-bar Row)
+
+PullDown
+
+9: Pulldown frontal com barra
+10: Pulldown com pegada invertida (palmas para você)
+11: Pulldown com corda no cabo alto

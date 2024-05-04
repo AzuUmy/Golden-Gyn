@@ -1,0 +1,26 @@
+Exercicio: Supino reto na barra
+repeticoes: 0 a 0;
+
+Exercicio: Supino inclinado na barra
+repeticoes: 0 a 0;
+
+Exercicio: Supino inclinado com Halteres
+repeticoes: 0 a 0;
+
+Exercicio: Fly pack Flying Machine
+repeticoes: 0 a 0;;
+
+Exercicio: Crossover
+repeticoes: 0 a 0;
+
+Exercicio: Supino declinado maquina (Chest Press)
+repeticoes: 0 a 0;
+
+Exercicio: Supino reto pegada invertida
+repeticoes: 0 a 0;
+
+Exercicio: Supino pegada curta
+repeticoes: 0 a 0;
+
+Exercicio: Supino crossover Fly
+repeticoes: 0 a 0;

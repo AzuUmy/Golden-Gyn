@@ -1,0 +1,15 @@
+Exercicio: Puxada na barra fixa
+repeticoes: 0 a 0;
+
+Exercicio: Remada
+repeticoes: 0 a 0;
+
+Exercicio: Pulldown
+repeticoes: 0 a 0;
+
+Exercicio: Levantamento Terra
+repeticoes: 0 a 0;
+
+Exercicio: Hiperextensao
+repeticoes: 0 a 0;
+

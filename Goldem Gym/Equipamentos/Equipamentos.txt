@@ -1,0 +1,9 @@
+Equipamento: Banco-de-Supino-enclinado Categoria: Peito Reserva: Leticia Horario: 9:00;
+Equipamento: Banco-de-supino-Declinado Categoria: Peito Reserva: Carlos Horario: 14:00;
+Equipamento: Fly-Pack-Machine Categoria: Peito Reserva: null Horario: ;
+Equipamento: Supino-delcinado maquina Categoria: Peito Reserva: null Horario: 14:00;
+Equipamento: cadeira-adultora Categoria: Pernas Reserva: Leticia Horario: 20:00;
+Equipamento: lag-Press Categoria: Pernas Reserva: carlos Horario: 13:00;
+Equipamento: Smith-machine Categoria: Pernas Reserva: carlos Horario: 2;
+Equipamento: Gluteeo-Articulado Categoria: Gluteo Reserva: carlos Horario: 20:00;
+Equipamento: Pulley Categoria: Costas Reserva: carlos Horario: 2;
